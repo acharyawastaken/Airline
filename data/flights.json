@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "airline": "Emirates",
+    "airlineCode": "EK",
+    "flightNumber": "EK565",
+    "from": "BLR",
+    "to": "DXB",
+    "departureTime": "04:30",
+    "arrivalTime": "06:50",
+    "duration": "3h 50m",
+    "stops": 0,
+    "price": 24500,
+    "seatsLeft": 5
+  },
+  {
+    "id": 2,
+    "airline": "Qatar Airways",
+    "airlineCode": "QR",
+    "flightNumber": "QR573",
+    "from": "BLR",
+    "to": "DOH",
+    "departureTime": "03:15",
+    "arrivalTime": "05:00",
+    "duration": "3h 15m",
+    "stops": 0,
+    "price": 22800,
+    "seatsLeft": 9
+  },
+  {
+    "id": 3,
+    "airline": "IndiGo",
+    "airlineCode": "6E",
+    "flightNumber": "6E123",
+    "from": "BLR",
+    "to": "DEL",
+    "departureTime": "09:30",
+    "arrivalTime": "12:10",
+    "duration": "2h 40m",
+    "stops": 0,
+    "price": 6200,
+    "seatsLeft": 18
+  }
+]

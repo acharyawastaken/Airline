@@ -1,0 +1,7 @@
+[
+  { "code": "BLR", "city": "Bengaluru", "country": "India" },
+  { "code": "DEL", "city": "New Delhi", "country": "India" },
+  { "code": "BOM", "city": "Mumbai", "country": "India" },
+  { "code": "DXB", "city": "Dubai", "country": "UAE" },
+  { "code": "DOH", "city": "Doha", "country": "Qatar" }
+]
