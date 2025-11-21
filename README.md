@@ -67,14 +67,4 @@ This project is built as:
       
       Admin dashboard
 
-👨‍💻 Author
 
-This repo is ready
-
-If you want next I can also drop:
-        
-        ✅ Ultra-short GitHub bio  
-        ✅ Hackathon description  
-        ✅ LinkedIn project description  
-        ✅ A landing page description  
-        ✅ Badges + banner  
